@@ -129,9 +129,9 @@ def main():
  
     # Loading json files
     print("\n[1/4] Loading raw data...")
-    with open("dataset/queries.json")   as f: queries   = json.load(f)
-    with open("dataset/documents.json") as f: documents = json.load(f)
-    with open("dataset/qrels.json")     as f: qrels     = json.load(f)
+    with open("dataset/queries.json", encoding="utf-8")   as f: queries   = json.load(f)
+    with open("dataset/documents.json", encoding="utf-8") as f: documents = json.load(f)
+    with open("dataset/qrels.json", encoding="utf-8")     as f: qrels     = json.load(f)
     print(f"      Queries  : {len(queries):>6,}")
     print(f"      Documents: {len(documents):>6,}")
     print(f"      Qrels    : {len(qrels):>6,}")
