@@ -1,0 +1,368 @@
+[
+  {
+    "query_id": "659",
+    "original_text": "Buying from an aggressive salesperson",
+    "tokens": [
+      "buy",
+      "aggressive",
+      "salesperson"
+    ],
+    "token_count": 3,
+    "raw_token_count": 5
+  },
+  {
+    "query_id": "776",
+    "original_text": "Can saving/investing 15% of your income starting age 25, likely make you a millionaire?",
+    "tokens": [
+      "sav",
+      "invest",
+      "income",
+      "start",
+      "age",
+      "likely",
+      "make",
+      "millionaire"
+    ],
+    "token_count": 8,
+    "raw_token_count": 14
+  },
+  {
+    "query_id": "2075",
+    "original_text": "Are stories of turning a few thousands into millions by trading stocks real?",
+    "tokens": [
+      "story",
+      "turn",
+      "thousand",
+      "million",
+      "trad",
+      "stock",
+      "real"
+    ],
+    "token_count": 7,
+    "raw_token_count": 13
+  },
+  {
+    "query_id": "2204",
+    "original_text": "What's an economic explanation for why greeting cards are so expensive?",
+    "tokens": [
+      "economic",
+      "explanate",
+      "greet",
+      "card",
+      "expensive"
+    ],
+    "token_count": 5,
+    "raw_token_count": 11
+  },
+  {
+    "query_id": "2296",
+    "original_text": "How does a bank make money on an interest free secured loan?",
+    "tokens": [
+      "bank",
+      "make",
+      "money",
+      "interest",
+      "free",
+      "secur",
+      "loan"
+    ],
+    "token_count": 7,
+    "raw_token_count": 12
+  },
+  {
+    "query_id": "2348",
+    "original_text": "Why can't you just have someone invest for you and split the profits (and losses) with him?",
+    "tokens": [
+      "ca",
+      "someone",
+      "invest",
+      "split",
+      "profit",
+      "loss"
+    ],
+    "token_count": 6,
+    "raw_token_count": 17
+  },
+  {
+    "query_id": "2376",
+    "original_text": "Why do gas stations charge different amounts in the same local area?",
+    "tokens": [
+      "gas",
+      "sta",
+      "charge",
+      "different",
+      "amount",
+      "local",
+      "area"
+    ],
+    "token_count": 7,
+    "raw_token_count": 12
+  },
+  {
+    "query_id": "2685",
+    "original_text": "What ways are there for us to earn a little extra side money?",
+    "tokens": [
+      "way",
+      "earn",
+      "little",
+      "extra",
+      "side",
+      "money"
+    ],
+    "token_count": 6,
+    "raw_token_count": 13
+  },
+  {
+    "query_id": "3724",
+    "original_text": "Should you always max out contributions to your 401k?",
+    "tokens": [
+      "alway",
+      "max",
+      "contribu",
+      "401k"
+    ],
+    "token_count": 4,
+    "raw_token_count": 9
+  },
+  {
+    "query_id": "3909",
+    "original_text": "How to rescue my money from negative interest?",
+    "tokens": [
+      "rescue",
+      "money",
+      "negative",
+      "interest"
+    ],
+    "token_count": 4,
+    "raw_token_count": 8
+  },
+  {
+    "query_id": "4409",
+    "original_text": "My friend wants to put my name down for a house he's buying. What risks would I be taking?",
+    "tokens": [
+      "friend",
+      "want",
+      "put",
+      "name",
+      "down",
+      "house",
+      "buy",
+      "risk",
+      "tak"
+    ],
+    "token_count": 9,
+    "raw_token_count": 19
+  },
+  {
+    "query_id": "5511",
+    "original_text": "Pay off car loan entirely or leave $1 until the end of the loan period?",
+    "tokens": [
+      "pay",
+      "off",
+      "car",
+      "loan",
+      "entirely",
+      "leave",
+      "end",
+      "loan",
+      "period"
+    ],
+    "token_count": 9,
+    "raw_token_count": 15
+  },
+  {
+    "query_id": "5853",
+    "original_text": "Paying Off Principal of Home vs. Investing In Mutual Fund",
+    "tokens": [
+      "pay",
+      "off",
+      "principal",
+      "home",
+      "vs",
+      "invest",
+      "mutual",
+      "fund"
+    ],
+    "token_count": 8,
+    "raw_token_count": 10
+  },
+  {
+    "query_id": "5951",
+    "original_text": "Why can't house prices be out of tune with salaries",
+    "tokens": [
+      "ca",
+      "house",
+      "pric",
+      "tune",
+      "salary"
+    ],
+    "token_count": 5,
+    "raw_token_count": 10
+  },
+  {
+    "query_id": "5993",
+    "original_text": "Why would anyone want to pay off their debts in a way other than \u201chighest interest\u201d first?",
+    "tokens": [
+      "anyone",
+      "want",
+      "pay",
+      "off",
+      "debt",
+      "way",
+      "highest",
+      "interest",
+      "first"
+    ],
+    "token_count": 9,
+    "raw_token_count": 17
+  },
+  {
+    "query_id": "6002",
+    "original_text": "15 year mortgage vs 30 year paid off in 15",
+    "tokens": [
+      "year",
+      "mortgage",
+      "vs",
+      "year",
+      "paid",
+      "off"
+    ],
+    "token_count": 6,
+    "raw_token_count": 10
+  },
+  {
+    "query_id": "6005",
+    "original_text": "Why might it be advisable to keep student debt vs. paying it off quickly?",
+    "tokens": [
+      "advis",
+      "keep",
+      "student",
+      "debt",
+      "vs",
+      "pay",
+      "off",
+      "quickly"
+    ],
+    "token_count": 8,
+    "raw_token_count": 14
+  },
+  {
+    "query_id": "6110",
+    "original_text": "Why does short selling require borrowing?",
+    "tokens": [
+      "short",
+      "sell",
+      "require",
+      "borrow"
+    ],
+    "token_count": 4,
+    "raw_token_count": 6
+  },
+  {
+    "query_id": "6131",
+    "original_text": "Is it ever a good idea to close credit cards?",
+    "tokens": [
+      "ever",
+      "good",
+      "idea",
+      "close",
+      "credit",
+      "card"
+    ],
+    "token_count": 6,
+    "raw_token_count": 10
+  },
+  {
+    "query_id": "6221",
+    "original_text": "To pay off a student loan, should I save up a lump sum payoff payment or pay extra each month?",
+    "tokens": [
+      "pay",
+      "off",
+      "student",
+      "loan",
+      "save",
+      "lump",
+      "sum",
+      "payoff",
+      "pay",
+      "pay",
+      "extra",
+      "month"
+    ],
+    "token_count": 12,
+    "raw_token_count": 20
+  },
+  {
+    "query_id": "8475",
+    "original_text": "Why I cannot find a \u201cPure Cash\u201d option in 401k investments?",
+    "tokens": [
+      "cannot",
+      "find",
+      "pure",
+      "cash",
+      "option",
+      "401k",
+      "invest"
+    ],
+    "token_count": 7,
+    "raw_token_count": 11
+  },
+  {
+    "query_id": "8974",
+    "original_text": "As a 22-year-old, how risky should I be with my 401(k) investments?",
+    "tokens": [
+      "year",
+      "old",
+      "risky",
+      "invest"
+    ],
+    "token_count": 4,
+    "raw_token_count": 12
+  },
+  {
+    "query_id": "10109",
+    "original_text": "Why does Charles Schwab have a Mandatory Settlement Period after selling stocks?",
+    "tokens": [
+      "charl",
+      "schwab",
+      "mandatory",
+      "settl",
+      "period",
+      "sell",
+      "stock"
+    ],
+    "token_count": 7,
+    "raw_token_count": 12
+  },
+  {
+    "query_id": "10497",
+    "original_text": "Why would you elect to apply a refund to next year's tax bill?",
+    "tokens": [
+      "elect",
+      "apply",
+      "refund",
+      "next",
+      "year",
+      "tax",
+      "bill"
+    ],
+    "token_count": 7,
+    "raw_token_count": 13
+  },
+  {
+    "query_id": "11039",
+    "original_text": "Pay off credit card debt or earn employer 401(k) match?",
+    "tokens": [
+      "pay",
+      "off",
+      "credit",
+      "card",
+      "debt",
+      "earn",
+      "employ",
+      "match"
+    ],
+    "token_count": 8,
+    "raw_token_count": 10
+  }
+]

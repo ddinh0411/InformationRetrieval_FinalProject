@@ -1,0 +1,64 @@
+{
+  "queries": {
+    "total": 25,
+    "avg_tokens": 6.64
+  },
+  "documents": {
+    "total": 5000,
+    "total_tokens_after_preprocessing": 354808,
+    "total_tokens_before_preprocessing": 688162,
+    "stopword_stem_reduction_pct": 48.44,
+    "avg_tokens_per_doc": 70.96
+  },
+  "inverted_index": {
+    "vocabulary_size": 16310,
+    "total_postings": 255889,
+    "avg_docs_per_term": 15.69,
+    "max_postings_term": "that",
+    "top10_most_frequent_terms": [
+      {
+        "term": "that",
+        "doc_freq": 3552
+      },
+      {
+        "term": "get",
+        "doc_freq": 1385
+      },
+      {
+        "term": "money",
+        "doc_freq": 1357
+      },
+      {
+        "term": "pay",
+        "doc_freq": 1356
+      },
+      {
+        "term": "one",
+        "doc_freq": 1291
+      },
+      {
+        "term": "like",
+        "doc_freq": 1202
+      },
+      {
+        "term": "year",
+        "doc_freq": 1084
+      },
+      {
+        "term": "people",
+        "doc_freq": 1060
+      },
+      {
+        "term": "make",
+        "doc_freq": 1052
+      },
+      {
+        "term": "time",
+        "doc_freq": 966
+      }
+    ]
+  },
+  "qrels": {
+    "total": 243
+  }
+}
