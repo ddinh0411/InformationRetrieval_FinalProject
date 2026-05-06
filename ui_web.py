@@ -399,7 +399,7 @@ DYNAMIC_TMPL = BASE.replace("{% block content %}{% endblock %}", """{% block con
           </div>
           <div class="form-group">
             <label>Relevant Doc IDs (comma-separated)</label>
-            <input type="text" name="rd{{ i }}" placeholder="e.g. doc_0042, doc_0187"/>
+            <input type="text" name="rd{{ i }}" placeholder="e.g. 0042, 0187"/>
           </div>
         </div>
         {% endfor %}
