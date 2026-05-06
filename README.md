@@ -1,2 +1,7 @@
 # InformationRetrieval_FinalProject
-A repository for final project of CS 5180 - Information Retrieval. This is a IR model with a provided dataset to show mastery over the material.
+
+## Program Setup Steps
+
+To get the index and the retrieval model running the follow Python libraries must be installed:
+- sklearn
+- flask
